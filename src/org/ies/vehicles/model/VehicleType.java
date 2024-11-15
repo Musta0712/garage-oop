@@ -1,4 +1,5 @@
 package org.ies.vehicles.model;
 
-public class vehicle {
+public enum VehicleType {
+    pr
 }
